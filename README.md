@@ -6,3 +6,5 @@ Taser System for FiveM
 2) Put "Start D2D-Taser" in your server.cfg
 
 3) Start your server and enjoy!
+
+You are not permitted to redistribute or sell my script to other people.
